@@ -1,0 +1,32 @@
+{
+  "postRequestBody": {
+    "DOB": "1974-07-28",
+    "EMAIL": "Johny.Tesla@gmail.com",
+    "FIRST_NAME": "Johny",
+    "LAST_NAME": "Tesla",
+    "INSTRUCTOR_ID": 4
+  },
+
+  "updateRequestBody": {
+    "DOB": "1999-07-30",
+    "EMAIL": "Andrew.Toyota@gmail.com",
+    "FIRST_NAME": "Andrew",
+    "LAST_NAME": "Toyota",
+    "INSTRUCTOR_ID": 3
+  },
+
+  "postRequestBodyProject01":{
+    "DOB": "1994-02-04",
+    "EMAIL": "AmyHollister@gmail.com",
+    "FIRST_NAME": "Amy",
+    "LAST_NAME": "Hollister",
+    "INSTRUCTOR_ID": 2
+  },
+  "updateRequestBodyProject01": {
+    "DOB": "1999-07-30",
+    "EMAIL": "Andrew.Toyota@gmail.com",
+    "FIRST_NAME": "Andrew",
+    "LAST_NAME": "Toyota",
+    "INSTRUCTOR_ID": 4
+  }
+}
